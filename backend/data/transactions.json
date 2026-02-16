@@ -1,0 +1,302 @@
+[
+  {
+    "transaction_id": "TXNACC001000",
+    "account_id": "ACC001",
+    "customer_name": "Rajesh Kumar",
+    "date": "2026-01-28T01:59:35.848763",
+    "type": "Credit",
+    "amount": 9651.25,
+    "description": "Transfer to Friend",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC001001",
+    "account_id": "ACC001",
+    "customer_name": "Rajesh Kumar",
+    "date": "2026-01-19T01:59:35.848763",
+    "type": "Credit",
+    "amount": 41897.99,
+    "description": "Transfer to Friend",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC001002",
+    "account_id": "ACC001",
+    "customer_name": "Rajesh Kumar",
+    "date": "2026-01-25T01:59:35.848763",
+    "type": "Credit",
+    "amount": 17724.87,
+    "description": "Online Shopping",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC001003",
+    "account_id": "ACC001",
+    "customer_name": "Rajesh Kumar",
+    "date": "2026-02-10T01:59:35.848763",
+    "type": "Credit",
+    "amount": 13597.46,
+    "description": "Transfer to Friend",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC001004",
+    "account_id": "ACC001",
+    "customer_name": "Rajesh Kumar",
+    "date": "2026-02-12T01:59:35.848763",
+    "type": "Debit",
+    "amount": 34109.09,
+    "description": "Grocery Purchase",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC001005",
+    "account_id": "ACC001",
+    "customer_name": "Rajesh Kumar",
+    "date": "2026-02-05T01:59:35.848763",
+    "type": "Debit",
+    "amount": 20393.87,
+    "description": "Grocery Purchase",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC001006",
+    "account_id": "ACC001",
+    "customer_name": "Rajesh Kumar",
+    "date": "2026-02-10T01:59:35.848763",
+    "type": "Credit",
+    "amount": 38861.63,
+    "description": "Electricity Bill",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC001007",
+    "account_id": "ACC001",
+    "customer_name": "Rajesh Kumar",
+    "date": "2026-01-20T01:59:35.848763",
+    "type": "Debit",
+    "amount": 43602.94,
+    "description": "Online Shopping",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC001008",
+    "account_id": "ACC001",
+    "customer_name": "Rajesh Kumar",
+    "date": "2026-01-24T01:59:35.848763",
+    "type": "Credit",
+    "amount": 27566.67,
+    "description": "Transfer to Friend",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC001009",
+    "account_id": "ACC001",
+    "customer_name": "Rajesh Kumar",
+    "date": "2026-01-18T01:59:35.848763",
+    "type": "Credit",
+    "amount": 40918.52,
+    "description": "Salary Deposit",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC002000",
+    "account_id": "ACC002",
+    "customer_name": "Priya Sharma",
+    "date": "2026-02-08T01:59:35.848763",
+    "type": "Credit",
+    "amount": 17585.58,
+    "description": "Electricity Bill",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC002001",
+    "account_id": "ACC002",
+    "customer_name": "Priya Sharma",
+    "date": "2026-01-27T01:59:35.848763",
+    "type": "Credit",
+    "amount": 15112.14,
+    "description": "Online Shopping",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC002002",
+    "account_id": "ACC002",
+    "customer_name": "Priya Sharma",
+    "date": "2026-02-10T01:59:35.848763",
+    "type": "Debit",
+    "amount": 48212.01,
+    "description": "Grocery Purchase",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC002003",
+    "account_id": "ACC002",
+    "customer_name": "Priya Sharma",
+    "date": "2026-01-18T01:59:35.848763",
+    "type": "Debit",
+    "amount": 27714.67,
+    "description": "Online Shopping",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC002004",
+    "account_id": "ACC002",
+    "customer_name": "Priya Sharma",
+    "date": "2026-02-10T01:59:35.848763",
+    "type": "Debit",
+    "amount": 35067.47,
+    "description": "Grocery Purchase",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC002005",
+    "account_id": "ACC002",
+    "customer_name": "Priya Sharma",
+    "date": "2026-01-25T01:59:35.848763",
+    "type": "Credit",
+    "amount": 22694.47,
+    "description": "ATM Withdrawal",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC002006",
+    "account_id": "ACC002",
+    "customer_name": "Priya Sharma",
+    "date": "2026-02-04T01:59:35.848763",
+    "type": "Credit",
+    "amount": 8632.13,
+    "description": "Electricity Bill",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC002007",
+    "account_id": "ACC002",
+    "customer_name": "Priya Sharma",
+    "date": "2026-01-21T01:59:35.848763",
+    "type": "Credit",
+    "amount": 37690.03,
+    "description": "Grocery Purchase",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC002008",
+    "account_id": "ACC002",
+    "customer_name": "Priya Sharma",
+    "date": "2026-01-29T01:59:35.848763",
+    "type": "Debit",
+    "amount": 30390.95,
+    "description": "Electricity Bill",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC002009",
+    "account_id": "ACC002",
+    "customer_name": "Priya Sharma",
+    "date": "2026-01-21T01:59:35.848763",
+    "type": "Debit",
+    "amount": 15119.16,
+    "description": "Transfer to Friend",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC003000",
+    "account_id": "ACC003",
+    "customer_name": "Amit Patel",
+    "date": "2026-02-06T01:59:35.848763",
+    "type": "Credit",
+    "amount": 9704.76,
+    "description": "Transfer to Friend",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC003001",
+    "account_id": "ACC003",
+    "customer_name": "Amit Patel",
+    "date": "2026-01-29T01:59:35.848763",
+    "type": "Debit",
+    "amount": 3232.3,
+    "description": "ATM Withdrawal",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC003002",
+    "account_id": "ACC003",
+    "customer_name": "Amit Patel",
+    "date": "2026-02-03T01:59:35.848763",
+    "type": "Debit",
+    "amount": 24034.49,
+    "description": "Electricity Bill",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC003003",
+    "account_id": "ACC003",
+    "customer_name": "Amit Patel",
+    "date": "2026-02-09T01:59:35.848763",
+    "type": "Debit",
+    "amount": 9680.12,
+    "description": "Salary Deposit",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC003004",
+    "account_id": "ACC003",
+    "customer_name": "Amit Patel",
+    "date": "2026-02-12T01:59:35.848763",
+    "type": "Debit",
+    "amount": 4335.07,
+    "description": "Grocery Purchase",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC003005",
+    "account_id": "ACC003",
+    "customer_name": "Amit Patel",
+    "date": "2026-02-13T01:59:35.848763",
+    "type": "Credit",
+    "amount": 42203.08,
+    "description": "Transfer to Friend",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC003006",
+    "account_id": "ACC003",
+    "customer_name": "Amit Patel",
+    "date": "2026-02-09T01:59:35.848763",
+    "type": "Debit",
+    "amount": 14543.64,
+    "description": "Salary Deposit",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC003007",
+    "account_id": "ACC003",
+    "customer_name": "Amit Patel",
+    "date": "2026-02-04T01:59:35.848763",
+    "type": "Debit",
+    "amount": 43948.54,
+    "description": "ATM Withdrawal",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC003008",
+    "account_id": "ACC003",
+    "customer_name": "Amit Patel",
+    "date": "2026-02-04T01:59:35.848763",
+    "type": "Debit",
+    "amount": 13672.84,
+    "description": "Grocery Purchase",
+    "status": "Completed"
+  },
+  {
+    "transaction_id": "TXNACC003009",
+    "account_id": "ACC003",
+    "customer_name": "Amit Patel",
+    "date": "2026-01-23T01:59:35.848763",
+    "type": "Debit",
+    "amount": 37861.22,
+    "description": "ATM Withdrawal",
+    "status": "Completed"
+  }
+]

@@ -1,0 +1,20 @@
+# virtual environment
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# logs
+*.log
+
+# model files (optional)
+*.pkl
+*.h5
+*.pt
+*.pth

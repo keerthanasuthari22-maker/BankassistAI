@@ -1,0 +1,64 @@
+{
+  "branches": [
+    {
+      "id": "BR001",
+      "name": "Downtown Branch",
+      "city": "Mumbai",
+      "address": "123 Financial Plaza, Mumbai - 400001",
+      "phone": "022-1234-5678",
+      "email": "downtown@bankassist.com",
+      "timings": "9:00 AM - 5:00 PM",
+      "services": [
+        "Account Opening",
+        "Loan Application",
+        "Safe Deposit Lockers"
+      ],
+      "atm_available": true
+    },
+    {
+      "id": "BR002",
+      "name": "Airport Branch",
+      "city": "Mumbai",
+      "address": "Terminal 2, Mumbai Airport",
+      "phone": "022-9876-5432",
+      "email": "airport@bankassist.com",
+      "timings": "24/7",
+      "services": [
+        "International Transfers",
+        "Forex",
+        "Travel Cards"
+      ],
+      "atm_available": true
+    },
+    {
+      "id": "BR003",
+      "name": "IT Hub Branch",
+      "city": "Bangalore",
+      "address": "Tech Park, Whitefield, Bangalore - 560066",
+      "phone": "080-4456-7890",
+      "email": "ithub@bankassist.com",
+      "timings": "9:00 AM - 6:00 PM",
+      "services": [
+        "Account Opening",
+        "Credit Cards",
+        "Digital Services"
+      ],
+      "atm_available": true
+    },
+    {
+      "id": "BR004",
+      "name": "Central Branch",
+      "city": "Delhi",
+      "address": "456 Business Central, New Delhi - 110001",
+      "phone": "011-2345-6789",
+      "email": "central@bankassist.com",
+      "timings": "9:00 AM - 5:00 PM",
+      "services": [
+        "Bulk Services",
+        "Corporate Accounts",
+        "Investment"
+      ],
+      "atm_available": true
+    }
+  ]
+}

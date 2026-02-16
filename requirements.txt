@@ -1,0 +1,16 @@
+streamlit
+requests
+fastapi
+uvicorn
+python-dotenv
+google-genai
+faiss-cpu==1.7.4
+langchain
+langchain-community
+langsmith
+pydantic
+pydantic-settings
+numpy<2.0
+scikit-learn
+aiohttp
+httpx
